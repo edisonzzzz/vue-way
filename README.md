@@ -60,3 +60,9 @@
 
   <https://www.zhihu.com/question/453332049/answer/1844784032>
   <https://web.archive.org/web/20220709082311/https://www.zhihu.com/question/453332049/answer/1844784032>
+
+-
+  > http://rspack.dev 网站看着有点眼熟... 还以为是 VitePress 呢，结果是 modern.js docs 扒了我们的 css 🙃
+
+  https://twitter.com/yuxiyou/status/1634017231490404354
+  https://web.archive.org/web/20230311031822/https://twitter.com/yuxiyou/status/1634017231490404354
