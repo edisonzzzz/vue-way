@@ -1,5 +1,23 @@
 # Vue 之道
 
+-
+  > Next 在 Vue 2 升 3 的窗口期吃到很多红利，vercel 的资本推动也很有力，但现在强推 RSC 是一个阵痛期，对生态有一定破坏性，turbopack 稳定遥遥无期，开发体验和稳定性相比新一代基于 Vite 的框架也开始显出疲态，比起同生态的 remix 也未必占优。但是体量和社区在，看 vercel 这么打这手牌了
+
+  <https://twitter.com/yuxiyou/status/1676103241770352640>
+  <https://web.archive.org/web/20230706145330/https://twitter.com/yuxiyou/status/1676103241770352640>
+
+- [Redacted，被 Retweet 者已锁推]
+
+  > 其实挺好的，如果用一个东西让你觉得自己笨，说明你天生的思维模式和这个东西不匹配。也有很多人用 React 用得觉得自己笨的，RSC 以后这样的人会更多吧，如果有这种感觉，不妨试试其他框架，对自己好一点。
+
+  <https://twitter.com/yuxiyou/status/1676490865907494912>
+  <https://web.archive.org/web/20230705075130/https://twitter.com/yuxiyou/status/1676490865907494912>
+
+  > 我当然还是要说一句，语法糖这种东西大部分用两遍就 internalize 了，还能比 rust 难？用惯了一个东西看另一个东西直觉性的反感很正常，就像很多写 html/css 上手前端的第一眼看到 jsx 也有很强的 knee jerk reaction。非要在 justify 自己的框架选择的时候秀优越感就大可不必了。
+
+  <https://twitter.com/yuxiyou/status/1676492193979322369>
+  <https://web.archive.org/web/20230705091642/https://twitter.com/yuxiyou/status/1676492193979322369>
+
 - **某个前端框架的作者** “频繁”用嘲讽和片面的方式cue其他框架，借此宣传自己的理念才是对的。这只会让我对这个框架的印象越来越不好。也不希望自己变成评论区里狂热排外分子的其中一员。
 
   > 我倒是很好奇，你觉得我哪一条是嘲讽，哪一条片面，哪一条不妥，欢迎指出。我自认发表的每一条看法都保持了尊重，也尽力做到有理有据。最近关于 pure 的讨论并不是我挑起的，我也不觉得我的看法有任何问题。
