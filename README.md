@@ -1,5 +1,22 @@
 # Vue 之道
 
+- 恕我直言，vitepress 真的什么都没有，很多地方支持还糟糕得不行，什么都得自己写插件去缝，我过去一个月里已经写了不下 4 个插件了 😅
+
+  > 什么都没有你用它干什么？
+
+  <https://twitter.com/yuxiyou/status/1679471946235527168>
+  <https://web.archive.org/web/20230713152300/https://twitter.com/yuxiyou/status/1679471946235527168>
+
+  > 什么都没有怎么会被粘住的呢，从头自己写一个也不难啊 🤡
+
+  <https://twitter.com/yuxiyou/status/1679482479835750400>
+  <https://web.archive.org/web/20230714142530/https://twitter.com/yuxiyou/status/1679482479835750400>
+
+  > 认真的说两句：开源项目不收钱，既然你选择用，又迁不走，那究竟是帮你省了时间的。再怎么说，作者也不欠你什么。你用 VitePress 做知识库，本来就是一个比较特别的用例，写了插件拿出来跟大家分享下，丰富下生态，本来是美事一桩。像一开始那样没头没脑吐槽一句，除了给人添堵还有什么意义呢？
+
+  <https://twitter.com/yuxiyou/status/1679484609397153793>
+  <https://web.archive.org/web/20230713181142/https://twitter.com/yuxiyou/status/1679484609397153793>
+
 -
   > Next 在 Vue 2 升 3 的窗口期吃到很多红利，vercel 的资本推动也很有力，但现在强推 RSC 是一个阵痛期，对生态有一定破坏性，turbopack 稳定遥遥无期，开发体验和稳定性相比新一代基于 Vite 的框架也开始显出疲态，比起同生态的 remix 也未必占优。但是体量和社区在，看 vercel 这么打这手牌了
 
