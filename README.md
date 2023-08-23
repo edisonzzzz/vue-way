@@ -1,5 +1,24 @@
 # Vue 之道
 
+- AFFiNE有些同事，上班快一个月了一个commit都没有，没事，学的慢可以理解。但每次开会都见不到人，原来是白天醒不来，很羡慕这种度假的感觉。不是刷推特还不知道他已经入职了
+
+  > 八月十四号：
+  > 
+  > Hello, AFFiNE @AffineDev! I'm excited to be on board and ready to get started!Moving forward, my main focus will be on developing Vue Core and BlockSuite. I can't wait to collaborate with all of you! ❤️
+  >
+  > 八月二十二号：
+  > 
+  > GitHub 有些项目，开源了一年多了，除了代码是开源的以外，不知道有什么东西和开源沾边。内部的开发者有几个愿意写啊？外部的就不用说了，没 M2+96GB+1TB 不知道能不能开发。噢，原来是个人项目啊。不是看GitHub有源代码，还以为是个闭源的独立开发者
+  >
+  > 哦对了，刚上班不久。第一天知道还没入职就要干活的，也不是很懂职场pua，麻烦懂的X友教教我🥹
+
+  <https://twitter.com/himself_65/status/1694011718588866869>
+  <https://web.archive.org/web/20230823010023/https://twitter.com/himself_65/status/1694011718588866869>
+  <https://twitter.com/zhizijun/status/1694031865160810688>
+  <https://web.archive.org/web/20230823005242/https://twitter.com/zhizijun/status/1694031865160810688>
+  <https://twitter.com/sanxiaozhizi/status/1690974369311559680>
+  <https://web.archive.org/web/20230823005214/https://twitter.com/sanxiaozhizi/status/1690974369311559680>
+
 - 恕我直言，vitepress 真的什么都没有，很多地方支持还糟糕得不行，什么都得自己写插件去缝，我过去一个月里已经写了不下 4 个插件了 😅
 
   > 什么都没有你用它干什么？
